@@ -78,10 +78,6 @@ C:\Users\84968\OneDrive\Máy tính\ToDoList\TLWebForm\obj\Debug\TLWebForm.csproj
 C:\Users\84968\OneDrive\Máy tính\ToDoList\TLWebForm\obj\Debug\TLWebForm.csproj.CopyComplete
 C:\Users\84968\OneDrive\Máy tính\ToDoList\TLWebForm\obj\Debug\TLWebForm.dll
 C:\Users\84968\OneDrive\Máy tính\ToDoList\TLWebForm\obj\Debug\TLWebForm.pdb
-C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\obj\Debug\TLWebForm.csprojAssemblyReference.cache
-C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\obj\Debug\TLWebForm.csproj.CoreCompileInputs.cache
-C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\obj\Debug\TLWebForm.dll
-C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\obj\Debug\TLWebForm.pdb
 C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\bin\TLWebForm.dll.config
 C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\bin\TLWebForm.dll
 C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\bin\TLWebForm.pdb
@@ -157,4 +153,8 @@ C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\bin\Newtonsoft.Json.xml
 C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\bin\Antlr3.Runtime.pdb
 C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\obj\Debug\TLWebForm.csprojAssemblyReference.cache
+C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\obj\Debug\TLWebForm.csproj.CoreCompileInputs.cache
 C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\obj\Debug\TLWebForm.csproj.CopyComplete
+C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\obj\Debug\TLWebForm.dll
+C:\Users\phamd\Desktop\Projects\C#\ToDoList\TLWebForm\obj\Debug\TLWebForm.pdb

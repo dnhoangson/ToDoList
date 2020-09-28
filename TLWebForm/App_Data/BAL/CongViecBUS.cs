@@ -14,12 +14,12 @@ namespace TLWebForm.App_Data.BAL
             if(status == true)
             {
                 service.MarkStatus(id, status);
-                service.UpdateFinishDate(id, "GETDATE()");
+                //service.UpdateFinishDate(id, "GETDATE()");
             }
             else
             {
                 service.MarkStatus(id, status);
-                service.UpdateFinishDate(id, "NULL");
+                //service.UpdateFinishDate(id, "NULL");
             }
         }
 
@@ -68,7 +68,6 @@ namespace TLWebForm.App_Data.BAL
         public void InsertJob(string ten, string timeStart, string timeEnd, string partner, bool phamvi)
         {
             service.InsertJob(ten, timeStart, timeEnd, partner, phamvi);
-            
         }
     }
 }
